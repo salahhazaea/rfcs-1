@@ -1,4 +1,4 @@
-# RFC: React Server Components
+## RFC: React Server Components
 
 * Start Date: 2020-12-21
 * RFC PR: https://github.com/reactjs/rfcs/pull/188
